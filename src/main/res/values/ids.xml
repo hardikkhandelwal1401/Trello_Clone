@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_app_name_intro" type="id" />
+    <item name="btn_sign_up_intro" type="id" />
+    <item name="btn_sign_in_intro" type="id" />
+    <item name="btn_create" type="id" />
+    <item name="et_board_name" type="id" />
+    <item name="iv_board_image" type="id" />
+    <item name="toolbar_create_board_activity" type="id" />
+    <item name="toolbar_card_details_activity" type="id" />
+    <item name="btn_update_card_details" type="id" />
+    <item name="tv_select_due_date" type="id" />
+    <item name="tv_select_members" type="id" />
+    <item name="tv_select_label_color" type="id" />
+    <item name="et_name_card_details" type="id" />
+    <item name="iv_selected_member_image" type="id" />
+    <item name="iv_add_member" type="id" />
+</resources>
